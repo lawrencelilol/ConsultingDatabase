@@ -4,7 +4,7 @@ _This project is completed in Oracle Database 11g Express_
 
 In this project, I created database for Homer Consulting and the company's structure is shown in the ER diagram. The relationships among the tables are shown in the schema.
 
-## Description of the model
+## Description
 
 In _Homer Consulting_ each employee is employed by one department. One of the employees
 from a department manages the department. Some employees (especially in larger departments)
