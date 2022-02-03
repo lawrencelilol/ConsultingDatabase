@@ -1,8 +1,13 @@
 # Homer Consultanting Database Implementation
 
+
+This project is completed in Oracle Database 11g Express.
+
+
+
 ER Diagram:
 
-![image](https://user-images.githubusercontent.com/35508198/152398058-759d3f8d-be70-4221-b008-be4b42801977.png)
+![image](https://user-images.githubusercontent.com/35508198/152398498-9d835717-e848-4a9d-9eeb-d677820e5758.png)
 
 
 Schema: 
