@@ -1,7 +1,7 @@
 # Homer Consultanting Database Implementation
 
-This project is completed in Oracle Database 11g Express.
-
+_This project is completed in Oracle Database 11g Express
+_
 In this project, I created database for Homer Consulting and the company's structure is shown in the ER diagram. The relationships among the tables are shown in the schema.
 
 In _Homer Consulting_ each employee is employed by one department. One of the employees
