@@ -4,6 +4,8 @@ _This project is completed in Oracle Database 11g Express_
 
 In this project, I created database for Homer Consulting and the company's structure is shown in the ER diagram. The relationships among the tables are shown in the schema.
 
+## Description of the model
+
 In _Homer Consulting_ each employee is employed by one department. One of the employees
 from a department manages the department. Some employees (especially in larger departments)
 supervise other employees in their department. Thus, one employee may have a supervisor and
@@ -38,11 +40,11 @@ may take the same training more that once since some of the skills might need to
 renewed. Each project requires one “major” skill.
 
 
-ER Diagram:
+## ER Diagram:
 
 ![image](https://user-images.githubusercontent.com/35508198/152398498-9d835717-e848-4a9d-9eeb-d677820e5758.png)
 
 
-Schema: 
+## Schema: 
 
 ![image](https://user-images.githubusercontent.com/35508198/152398127-0cf59c38-d583-4401-95ed-ed50fef9f634.png)
